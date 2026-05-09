@@ -20,4 +20,4 @@ lsmod:kmod
 bc
 gpg
 pigz
-arch-test
+#arch-test
